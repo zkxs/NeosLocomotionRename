@@ -1,6 +1,6 @@
 # NeosLocomotionRename
 
-A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) makes your locomotion modules derive their names from their slots. This makes it easier to distinguish between multiple installed locomotion modules of the same type, e.g. "Noclip", "Fast Noclip" "6-Axis Noclip". Without the mod your context menu would instead show "Noclip", "Noclip", "Noclip".
+A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that makes your locomotion modules derive their names from their slots. This makes it easier to distinguish between multiple installed locomotion modules of the same type, e.g. "Noclip", "Fast Noclip" "6-Axis Noclip". Without the mod your context menu would instead show "Noclip", "Noclip", "Noclip".
 
 This will no longer be needed once https://github.com/Neos-Metaverse/NeosPublic/issues/1653 is resolved.
 
