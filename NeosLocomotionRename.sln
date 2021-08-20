@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeosLocomotionRename", "NeosLocomotionRename\NeosLocomotionRename.csproj", "{CD27F876-A280-4A9E-80C3-97B7C7C04445}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD27F876-A280-4A9E-80C3-97B7C7C04445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD27F876-A280-4A9E-80C3-97B7C7C04445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD27F876-A280-4A9E-80C3-97B7C7C04445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD27F876-A280-4A9E-80C3-97B7C7C04445}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DE52FEB-9873-4CD6-ABE0-DB3A833CB363}
+	EndGlobalSection
+EndGlobal
