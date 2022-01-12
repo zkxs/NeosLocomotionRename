@@ -17,6 +17,3 @@ Yes. You may experience the following:
 
 ### What does this actually do?
 Forces Noclip, GrabWorld, Slide, and Teleport locomotion modules to use the slot name as the module name. Physical is specifically exempted because it has a built in mechanism for renaming.
-
-### Is this against guidelines?
-Maybe. [Read more](https://github.com/zkxs/NeosModLoader/blob/master/doc/neos_guidelines.md).
